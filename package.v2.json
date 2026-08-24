@@ -1,0 +1,15 @@
+{
+  "SeedWorkgroupCheck": {
+    "name": "保种工作组检查",
+    "description": "按站点和工作组规则检查保种体积、数量和持续时间。",
+    "labels": "做种,保种,工作组,监控",
+    "version": "1.0.0",
+    "icon": "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/contract.png",
+    "author": "OpenAI",
+    "level": 2,
+    "system_version": ">=2.12.0",
+    "history": {
+      "v1.0.0": "新增多站点保种工作组规则、官组关键词配置、每日检查、通知和仪表板。"
+    }
+  }
+}
